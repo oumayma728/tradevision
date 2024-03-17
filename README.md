@@ -35,4 +35,9 @@ Search Functionality: Robust search feature for quickly finding products by name
    MONGODB_URI=(your-mongodb-uri)
    JWT_SECRET=(your-jwt-secret)
 
+5) Start the development server:
+
+    npm run dev
+6) Open your browser and navigate to http://localhost:3000 to view the application.
+
 
