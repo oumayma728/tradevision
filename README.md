@@ -8,3 +8,8 @@ Admin Panel: Admin dashboard for managing products, categories, orders, and user
 Responsive Design: Mobile-friendly design ensures seamless user experience across devices.
 Payment Integration: Integration with popular payment gateways for secure online transactions.
 Search Functionality: Robust search feature for quickly finding products by name, category, or keywords.
+# Installation
+
+1) Clone the repository:
+
+   git clone <repository-url>
