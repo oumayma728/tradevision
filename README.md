@@ -12,4 +12,27 @@ Search Functionality: Robust search feature for quickly finding products by name
 
 1) Clone the repository:
 
-   git clone <repository-url>
+   git clone (repository-url)
+
+2) Navigate to the project directory:
+
+    cd mern-e-commerce
+
+3) Install dependencies for both client and server:
+
+    cd client
+    npm install
+    cd ..
+    cd server
+    npm install
+
+4) Set up environment variables:
+
+    Create a .env file in the server directory.
+    Define the following environment variables:
+
+   PORT=5000
+   MONGODB_URI=(your-mongodb-uri)
+   JWT_SECRET=(your-jwt-secret)
+
+
